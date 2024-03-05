@@ -1,0 +1,4 @@
+com\test\Config.class
+com\test\Keyword.class
+com\test\Locator.class
+com\test\exception\InvalidBrowserNameError.class
